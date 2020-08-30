@@ -3,10 +3,8 @@
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: brunomoraisti](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomoraisti/)](https://www.linkedin.com/in/brunomoraisti/)
+[![Linkedin: brunomoraisti](https://img.shields.io/badge/-brunomoraisti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomoraisti/)](https://www.linkedin.com/in/brunomoraisti/)
 ![GitHub followers](https://img.shields.io/github/followers/brunomoraisiti?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=brunomoraisti)
-![Waka Readme](https://github.com/brunomoraisti/brunomoraisti/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
