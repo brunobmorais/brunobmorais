@@ -10,24 +10,24 @@
 ```javascript
 const brunomoraisti = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "Php", Angular, Android],
+    code: ["Javascript", "Typescript", "Java", "Php", "Angular", "Android"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android Java"],
         frontEnd: {
             js: ["Vue", "Angular"],
             css: ["materialize", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"]
+            php: [""]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["MariaDb", "MySql", "sqlite"],
-        misc: ["Firebase", "php", "SuiteApp"]
+        misc: ["Firebase", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing components PHP",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
