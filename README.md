@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/brunomoraisti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunomoraisti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunomoraisti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraisti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
