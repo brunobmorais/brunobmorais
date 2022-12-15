@@ -3,11 +3,13 @@
 <p><em>Software Engineer Developer Web Full Stack and Mobile<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<div align="center">      
-  ![](https://github-readme-stats.vercel.app/api?username=brunobmorais&show_icons=true&theme=transparent)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=brunobmorais&theme=blueberry&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=brunobmorais&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=brunobmorais&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=transparent&include_all_commits=true&count_private=true&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-database)](https://github.com/brunobmorais/php-database)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Manu-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
