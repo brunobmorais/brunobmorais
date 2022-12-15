@@ -3,15 +3,10 @@
 <p><em>Software Engineer Developer Web Full Stack and Mobile<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<div align="center">
-  <a href="https://github.com/brunobmorais">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunobmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&layout=compact&include_all_commits=true&count_private=true&langs_count=7&theme=tokyonight"/>
-    
-  # 📊 GitHub Stats:
+<div align="center">    
   ![](https://github-readme-stats.vercel.app/api?username=brunobmorais&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=brunobmorais&theme=blueberry&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
