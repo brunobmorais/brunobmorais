@@ -3,12 +3,16 @@
 <p><em>Software Engineer Developer Web Full Stack and Mobile<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![](https://github-readme-stats.vercel.app/api?username=brunobmorais&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=brunobmorais&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brunobmorais&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=transparent&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=transparent&include_all_commits=true&count_private=true&layout=compacthide_border=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-database)](https://github.com/brunobmorais/php-database)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-database" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-pix" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
