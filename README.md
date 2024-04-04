@@ -3,17 +3,11 @@
 <p><em>Software Engineer Developer Web Full Stack and Mobile<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![](https://github-readme-stats.vercel.app/api?username=brunobmorais&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=brunobmorais&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&theme=transparent&include_all_commits=true&count_private=true&layout=compacthide_border=false&hide=html,scss,css,less,twig,python,ruby,shell,javascript,swift,makefile)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-database" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobmorais&repo=php-pix" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/brunobmorais">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunobmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmorais&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Manu-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -36,6 +30,4 @@
   <a href="https://www.linkedin.com/in/brunobmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/brunobmorais/brunobmorais/output/snake.svg" alt="Snake animation" />
-###
+![Snake animation](https://raw.githubusercontent.com/brunobmorais/brunobmorais/master/.github/images/github-contribution-grid-snake.svg)
