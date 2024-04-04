@@ -30,4 +30,6 @@
   <a href="https://www.linkedin.com/in/brunobmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/brunobmorais/brunobmorais/master/.github/images/github-contribution-grid-snake.svg)
+<br clear="both">
+<img src="https://raw.githubusercontent.com/brunobmorais/brunobmorais/output/snake.svg" alt="Snake animation" />
+###
